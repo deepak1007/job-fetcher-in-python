@@ -1,9 +1,9 @@
-Requirements libraries
--> beautifulsoup (to parse the incoming source code)
--> requests (to get the reuired page from the server)
+Requirements libraries\
+-> beautifulsoup (to parse the incoming source code)\
+-> requests (to get the reuired page from the server)\
 
 
-basic work flow check list (development v1)
+basic work flow check list (development v1)\
 [] get the urls
    [] Glassdoor 
    [X] Internshala
