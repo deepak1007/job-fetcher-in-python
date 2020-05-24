@@ -9,4 +9,5 @@ if(html.status_code == 200):
   for individual_link_container in list_of_link_containers:
       fs.writelines(individual_link_container.h4.a.get('href'))
 
-  fs.close()    
+  fs.close()
+      
