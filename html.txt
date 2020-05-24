@@ -1,0 +1,2383 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#">
+ <head>
+  <meta content="IE=9" http-equiv="X-UA-Compatible"/>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0 user-scalable=0" name="viewport"/>
+  <meta content="272234782795210" property="fb:app_id"/>
+  <meta content="article" property="og:type"/>
+  <meta content="1200" property="og:image:width"/>
+  <meta content="630" property="og:image:height"/>
+  <meta content="@Internshala" name="twitter:site"/>
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="@internshala" name="twitter:creator"/>
+  <meta content="https://internshala.com/static/images/internships_for_facebook.png" name="twitter:image:src"/>
+  <meta content="#1295c9" name="theme-color"/>
+  <meta content="#1295c9" name="msapplication-navbutton-color"/>
+  <script defer="" src="https://internshala.com/static/js/includes/common/jquery-1.11.1.min.js">
+  </script>
+  <script defer="" src="https://internshala.com/static/cdn/3.3.6/bootstrap.min.js">
+  </script>
+  <link href="https://internshala.com/static/cdn/3.3.6/bootstrap.css" rel="stylesheet"/>
+  <link href="https://internshala.com/static/cdn/fonts/open_sans/open_sans_min.css" rel="stylesheet" type="text/css"/>
+  <link href="https://internshala.com/favicon.ico?v=3" rel="icon"/>
+  <script type="application/ld+json">
+   {
+            "@context":"http://schema.org",
+            "@type":"Organization",
+            "name":"Internshala",
+            "url":"https://internshala.com/",
+            "sameAs":[
+            "https://www.facebook.com/internshala",
+            "https://instagram.com/internshala/",
+            "https://www.linkedin.com/company/internshala",
+            "https://www.youtube.com/channel/UC97qxGRmPsyfV0Miz7AxU2A"
+            ]
+            }
+  </script>
+  <script nonce="4CAcKcf4bJ8lzntCI4UXqQ==">
+   window.onerror = function (error, url, line, col, fullError) {
+        error = fullError || error;
+        store_data(error, line);
+    };
+
+    function store_data(error, line) {
+        error = error.stack || error;
+        var url = window.location.href;
+        var browser = get_browser();
+        var browser_name = browser.name;
+        var browser_version = browser.version;
+        var browser_ua = browser.user_agent;
+        var message = "error=" + error + ". Line:" + line + "&browser=" + browser_name + "&version=" + browser_version + "&url=" + url + "&ua=" + browser_ua;
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function () {
+            if (this.readyState === 4 && this.status === 200) {
+
+            }
+        };
+        xhttp.open("POST", "/browser_error/insert_browser_logs", true);
+        xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+        xhttp.send(message);
+    }
+
+    function get_browser() {
+        var ua = navigator.userAgent, tem, M = ua.match(/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i) || [];
+        if (/trident/i.test(M[1])) {
+            tem = /\brv[ :]+(\d+)/g.exec(ua) || [];
+            return {name: 'IE', version: (tem[1] || '')};
+        }
+        if (M[1] === 'Chrome') {
+            tem = ua.match(/\bOPR|Edge\/(\d+)/)
+            if (tem != null) {
+                return {name: 'Opera', version: tem[1]};
+            }
+        }
+        M = M[2] ? [M[1], M[2]] : [navigator.appName, navigator.appVersion, '-?'];
+        if ((tem = ua.match(/version\/(\d+)/i)) != null) {
+            M.splice(1, 1, tem[1]);
+        }
+        return {
+            name: M[0],
+            version: M[1],
+            user_agent: ua
+        };
+    }
+  </script>
+  <script nonce="4CAcKcf4bJ8lzntCI4UXqQ==">
+   var os_type = "";
+            var browser_name = '';
+            var is_android = 0;
+            var is_mobile = 1;
+            var l_cookie = "";
+            var view = "internship/detail/detail";
+            var mainRole = "guest";
+            var to_show_account_activated_message = false;
+            var to_show_subscription_activated_message = false;
+            var location_autocomplete_min_length = 3;
+  </script>
+  <title>
+   PHP Development Internship in Delhi at Nerd Geek Lab | Internshala
+  </title>
+  <meta content="Apply to PHP Development Internship in Delhi at Nerd Geek Lab on Internshala for free." name="description"/>
+  <meta content="PHP Development Internship in Delhi at Nerd Geek Lab" property="og:title"/>
+  <meta content=" " property="og:description"/>
+  <meta content="https://internshala.com/internship/detail/php-development-internship-in-delhi-at-nerd-geek-lab1590234375" property="og:url"/>
+  <meta content="https://internshala.com/static/images/internshala_og_image.jpg" property="og:image"/>
+  <meta content="PHP Development Internship in Delhi at Nerd Geek Lab" name="twitter:title"/>
+  <meta content="&amp;nbsp;" name="twitter:description"/>
+  <meta content="https://internshala.com/internship/detail/php-development-internship-in-delhi-at-nerd-geek-lab1590234375" name="twitter:domain"/>
+  <link href="https://internshala.com/static/css/internship/detail/detail.1589043032.css" rel="stylesheet" type="text/css"/>
+  <script defer="" src="https://internshala.com/static/js/combined/common_form.1588920320.js" type="text/javascript">
+  </script>
+  <script defer="" src="https://internshala.com/static/js/combined/internship-details.1589043032.js" type="text/javascript">
+  </script>
+  <script defer="" src="https://internshala.com/static/js/subscribe/popup.1567073180.js" type="text/javascript">
+  </script>
+  <script nonce="4CAcKcf4bJ8lzntCI4UXqQ==">
+   var isMobile = '1';
+  </script>
+  <!-- Google Tag Manager -->
+  <script nonce="4CAcKcf4bJ8lzntCI4UXqQ==">
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5NSPHG');
+  </script>
+  <!-- End Google Tag Manager -->
+  <script nonce="4CAcKcf4bJ8lzntCI4UXqQ==">
+   //    window.addEventListener('load', function() {
+//        store_session_data();
+//    });
+
+//    window.addEventListener('DOMContentLoaded', function() {
+//        store_session_data();
+//    });
+
+    var pdcVersion = "0";
+    var toMakeInitialRequest = 1;
+    if (toMakeInitialRequest == 1) {
+        store_session_data();
+    } else  {
+        store_pagespeed_session_data();
+    }
+
+    function store_session_data() {
+        var message = "device=" + getDeviceType();
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function () {
+            if (this.readyState === 4 && this.status === 200) {
+                //Success
+                var responseText = this.responseText;
+                try {
+                    data = JSON.parse(responseText);
+                    if (data.success) {
+                        if(data.toMakeUpdateRequest) {
+                            update_session_data();
+                        }
+                    } else {
+                        //TODO
+                    }
+                } catch (e) {
+                    throw_error(e);
+                }
+            }
+        };
+
+        xhttp.open("POST", "/info/storeData", true);
+        xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+        xhttp.send(message);
+    }
+
+    function store_pagespeed_session_data() {
+        var message = "device=" + getDeviceType();
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function () {
+            if (this.readyState === 4 && this.status === 200) {
+                //Success
+                var responseText = this.responseText;
+                try {
+                    data = JSON.parse(responseText);
+                    if (data.success) {
+                    } else {
+                        //TODO
+                    }
+                } catch (e) {
+                    throw_error(e);
+                }
+            }
+        };
+
+        xhttp.open("POST", "/info/storePageSpeedData", true);
+        xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+        xhttp.send(message);
+    }
+
+    function update_session_data() {
+        var message = "";
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function () {
+            if (this.readyState === 4 && this.status === 200) {
+                //Success
+            }
+        };
+
+        xhttp.open("POST", "/info/updateDeviceCookieDomain", true);
+        xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+        xhttp.send(message);
+    }
+
+    function getDeviceType() {
+        var device;
+        if (typeof isMobile !== 'undefined') {
+            if (isMobile === '1') {
+                device = "mobile";
+            } else {
+                device = "desktop";
+            }
+        } else {
+            device = "NA";
+        }
+
+        return device;
+    }
+  </script>
+  <script nonce="4CAcKcf4bJ8lzntCI4UXqQ==">
+  </script>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-5NSPHG" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <div id="wrapper">
+   <!-- dialog modal - error message -->
+   <div class="wrong" id="error">
+    <div class="close_error" id="close" title="close">
+     X
+    </div>
+   </div>
+   <div class="notification notification_page_loading" id="page_loading_notification" style="display: block;">
+    Loading, please wait...
+   </div>
+   <div class="notification notification_error" id="failure_notification">
+   </div>
+   <div class="notification notification_success" id="success_notification">
+   </div>
+   <div class="notification notification_general" id="general_notification">
+   </div>
+   <div class="notification notification_general_fixed" id="general_notification_fixed">
+   </div>
+   <div class="notification notification_preview" id="preview_notification">
+   </div>
+   <!-- modal - semi-error message -->
+   <div class="modal internshala-modal-messages" id="semi_error_modal" style="display: none">
+    <div class="modal-dialog">
+     <div class="modal-content">
+      <div class="modal-body">
+       <div class="table-cell">
+        <img src="https://internshala.com/static/images/common/error.png"/>
+       </div>
+       <div class="table-cell">
+        <p class="text-message">
+        </p>
+       </div>
+       <hr/>
+       <a class="btn btn-default close_action" data-dismiss="modal">
+        Close
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <!-- modal - error message -->
+   <div class="modal internshala-modal-messages" id="error_modal" style="display: none">
+    <div class="modal-dialog">
+     <div class="modal-content">
+      <div class="modal-body">
+       <div class="table-cell">
+        <img src="https://internshala.com/static/images/common/error.png"/>
+       </div>
+       <div class="table-cell">
+        <p class="text-message">
+        </p>
+       </div>
+       <hr/>
+       <a class="btn btn-default" data-dismiss="modal" href="">
+        Close
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <!-- modal - semi-success message -->
+   <div class="modal internshala-modal-messages" id="semi_success_modal" style="display: none">
+    <div class="modal-dialog">
+     <div class="modal-content">
+      <div class="modal-body">
+       <div class="table-cell">
+        <img src="https://internshala.com/static/images/common/success.png"/>
+       </div>
+       <div class="table-cell">
+        <p class="text-message">
+        </p>
+       </div>
+       <hr/>
+       <a class="btn btn-default close_action" data-dismiss="modal">
+        Close
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <!-- modal - success message -->
+   <div class="modal internshala-modal-messages" id="success_modal" style="display: none">
+    <div class="modal-dialog">
+     <div class="modal-content">
+      <div class="modal-body">
+       <div class="table-cell">
+        <img src="https://internshala.com/static/images/common/success.png"/>
+       </div>
+       <div class="table-cell">
+        <p class="text-message">
+        </p>
+       </div>
+       <hr/>
+       <a class="btn btn-default" data-dismiss="modal" href="">
+        Close
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <!-- modal - alert message -->
+   <div class="modal internshala-modal-messages" id="alert_modal" style="display: none">
+    <div class="modal-backdrop in" id="alert_modal_backdrop" style="height: 100%; display: none;">
+    </div>
+    <div class="modal-dialog">
+     <div class="modal-content">
+      <div class="modal-body">
+       <div class="table-cell">
+        <img src="https://internshala.com/static/images/common/warning.png"/>
+       </div>
+       <div class="table-cell">
+        <p class="text-message">
+        </p>
+       </div>
+       <hr/>
+       <a class="btn btn-default close_action" data-dismiss="modal">
+        OK
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="modal internshala-modal-messages" id="custom_success_modal" style="display: none">
+    <div class="modal-backdrop in" id="custom_success_modal_backdrop" style="height: 100%; display:show;">
+    </div>
+    <div class="modal-dialog">
+     <div class="modal-content">
+      <div class="modal-body">
+       <div class="table-cell">
+        <img src="https://internshala.com/static/images/common/success.png"/>
+       </div>
+       <div class="table-cell">
+        <p class="text-heading-message">
+        </p>
+       </div>
+       <hr class="custom_modal_hr"/>
+       <div class="modal_data">
+        <div class="text-content-message">
+        </div>
+        <div class="button_container">
+         <a class="btn btn-default close_action" data-dismiss="modal">
+          Got It
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <!--- confirmation modal-->
+   <div class="modal internshala-modal-messages" id="confirmation_modal" style="display: none">
+    <div class="modal-dialog">
+     <div class="modal-content">
+      <div class="modal-body">
+       <div class="table-cell">
+       </div>
+       <div class="table-cell">
+        <p class="text-message">
+         Are you sure you want to submit your entry?
+        </p>
+       </div>
+       <hr/>
+       <div class="button_container">
+        <button class="btn pull-right btn-primary cancel-button" data-dismiss="modal">
+         Cancel
+        </button>
+        <button class="btn pull-right btn-primary yes-button">
+         Yes
+        </button>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="modal internshala-modal-messages" id="confirm_action_modal" style="display: none">
+    <div class="modal-dialog">
+     <div class="modal-content">
+      <div class="modal-body">
+       <div class="table-cell">
+       </div>
+       <div class="table-cell">
+        <p class="text-message">
+         Are you sure you want to submit your entry?
+        </p>
+       </div>
+       <hr/>
+       <div class="button_container">
+        <button class="btn btn-primary cancel-button pull-right" data-dismiss="modal">
+         Cancel
+        </button>
+        <a class="btn pull-right" id="redirect_link" target="_blank">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="loading_image">
+   </div>
+   <div class="nav_dropdown_backdrop">
+   </div>
+   <noscript>
+    <div class="notification notification_js_disabled" style="display: block;">
+     Oops, your browser does not support Javascript. Please use Internshala in another browser.
+    </div>
+   </noscript>
+   <div class="toast" style="display:none">
+    <div class="toast-content">
+    </div>
+   </div>
+   <div class="popover_overlay">
+   </div>
+   <div class="chat_notification_loading_image" style="display: none;">
+   </div>
+   <div aria-hidden="true" aria-labelledby="myModalLabel" class="modal" id="login-modal" role="dialog" tabindex="-1">
+    <div class="modal-dialog">
+     <div class="modal-content">
+      <div class="modal-header">
+       <button class="close" data-dismiss="modal" type="button">
+        <span aria-hidden="true">
+         ×
+        </span>
+       </button>
+      </div>
+      <div class="modal-body">
+       <div id="user-menu-container">
+        <div id="user-menu">
+         <div class="row">
+          <div class="col-xs-6 col-6 user-menu-item active login_student" id="modal_student">
+           STUDENT
+          </div>
+          <div class="col-xs-6 col-6 user-menu-item login_employer" id="modal_employer">
+           EMPLOYER/ T&amp;P
+          </div>
+         </div>
+        </div>
+       </div>
+       <a class="google_login" href="/login/get_google">
+        <div id="google-button-container">
+         <div class="google_image_container">
+          <img src="https://internshala.com/static/images/login/google_logo.png"/>
+         </div>
+         <div class="google_content">
+          Login with Google
+         </div>
+        </div>
+       </a>
+       <div class="helper">
+        <div class="text2">
+         <p>
+          Or
+         </p>
+        </div>
+        <div class="border">
+        </div>
+       </div>
+       <form id="modal-login-form" method="POST" role="form">
+        <input name="csrf_test_name" type="hidden" value="722d5d0223b988824ebfcc9add0c51df"/>
+        <div class="form-group">
+         <label class="control-label" for="email">
+          Email
+         </label>
+         <input class="form-control" id="modal_email" name="email" tabindex="1" type="email"/>
+        </div>
+        <div class="form-group">
+         <label class="control-label" for="password">
+          Password
+         </label>
+         <input class="form-control" id="modal_password" name="password" tabindex="2" type="password"/>
+        </div>
+        <div class="forgot_password">
+         <a href="/login/forgot_password" id="forgot-password">
+          Forgot Password?
+         </a>
+        </div>
+        <div class="form-group">
+         <button class="btn btn-primary" id="modal_login_submit" tabindex="3" type="submit">
+          Login
+         </button>
+        </div>
+        <div class="form-group new_to_internshala">
+         <label>
+          New to Internshala? Register (
+          <a href="/registration/student">
+           Student
+          </a>
+          /
+          <a href="/registration/employer">
+           Company
+          </a>
+          )
+         </label>
+        </div>
+       </form>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="header_container" id="header">
+    <div class="max-width-container-header">
+     <div class="layer">
+     </div>
+     <div class="sidenav" id="mySidenav">
+      <div class="ham_menu_items">
+       <div class="ham_main_heading">
+        <a href="/internships">
+         Internships
+        </a>
+       </div>
+      </div>
+      <div class="ham_menu_items">
+       <div class="ham_main_heading">
+        <a href="/internships/work-from-home-jobs?utm_source=wfh_mobile_hamburger">
+         Work from Home
+        </a>
+       </div>
+      </div>
+      <div class="ham_menu_training_items ham_menu_items without_link">
+       <div class="ham_title ham_main_heading">
+        Online Trainings
+        <span class="offer">
+         CONTEST
+        </span>
+        <span class="glyphicon glyphicon-menu-down pull-right outer_down">
+        </span>
+        <span class="glyphicon glyphicon-menu-up pull-right outer_up">
+        </span>
+       </div>
+       <div class="ham_submenu_items">
+        <div class="ham_menu_training_items ham_inner_menu_items">
+         <div class="ham_inner_title">
+          Contests
+          <span class="offer">
+           REGISTER
+          </span>
+          <span class="glyphicon glyphicon-menu-down pull-right inner_down">
+          </span>
+          <span class="glyphicon glyphicon-menu-up pull-right inner_up">
+          </span>
+         </div>
+         <div class="ham_inner_submenu_items">
+          <a class="trainings_link" href="https://trainings.internshala.com/contest/webdev-battle?utm_source=internshala-menu-dropdown-8contest_May24" style="" target="_blank">
+           Web Development
+          </a>
+          <a class="trainings_link" href="https://trainings.internshala.com/contest/python-challenge?utm_source=internshala-menu-dropdown-8contest_May24" style="" target="_blank">
+           Programming with Python
+          </a>
+          <a class="trainings_link" href="https://trainings.internshala.com/contest/hackathon?utm_source=internshala-menu-dropdown-8contest_May24" style="" target="_blank">
+           Ethical Hacking
+          </a>
+          <a class="trainings_link" href="https://trainings.internshala.com/contest/appathon?utm_source=internshala-menu-dropdown-8contest_May24" style="" target="_blank">
+           Android App Development
+          </a>
+          <a class="trainings_link" href="https://trainings.internshala.com/contest/creative-writing-challenge?utm_source=internshala-menu-dropdown-8contest_May24" style="" target="_blank">
+           Creative Writing
+          </a>
+          <a class="trainings_link" href="https://trainings.internshala.com/contest/marketing-ninja?utm_source=internshala-menu-dropdown-8contest_May24" style="" target="_blank">
+           Digital Marketing
+          </a>
+          <a class="trainings_link" href="https://trainings.internshala.com/contest/data-science-challenge?utm_source=internshala-menu-dropdown-8contest_May24" style="" target="_blank">
+           Data Science
+          </a>
+          <a class="trainings_link" href="https://trainings.internshala.com/contest/bonjour-french?utm_source=internshala-menu-dropdown-8contest_May24" style="" target="_blank">
+           French Language
+          </a>
+         </div>
+        </div>
+        <div class="ham_menu_training_items ham_inner_menu_items">
+         <div class="ham_inner_title">
+          Programming
+          <span class="glyphicon glyphicon-menu-down pull-right inner_down">
+          </span>
+          <span class="glyphicon glyphicon-menu-up pull-right inner_up">
+          </span>
+         </div>
+         <div class="ham_inner_submenu_items">
+          <a class="trainings_link" href="https://trainings.internshala.com/c-plus-plus-training?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+           Programming with C and C++
+          </a>
+          <a class="trainings_link" href="https://trainings.internshala.com/java-training?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+           Core Java
+          </a>
+          <a class="trainings_link" href="https://trainings.internshala.com/angular-training?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+           Angular
+          </a>
+         </div>
+        </div>
+        <div class="ham_menu_training_items ham_inner_menu_items">
+         <div class="ham_inner_title">
+          Business
+          <span class="glyphicon glyphicon-menu-down pull-right inner_down">
+          </span>
+          <span class="glyphicon glyphicon-menu-up pull-right inner_up">
+          </span>
+         </div>
+         <div class="ham_inner_submenu_items">
+          <a class="trainings_link" href="https://trainings.internshala.com/excel-training?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+           Advanced Excel
+          </a>
+          <a class="trainings_link" href="https://trainings.internshala.com/financial-modeling-valuation-training?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+           Financial Modeling and Valuation
+          </a>
+          <a class="trainings_link" href="https://trainings.internshala.com/business-communication-skills-training?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+           Business Communication Skills
+          </a>
+          <a class="trainings_link" href="https://trainings.internshala.com/trading-training?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+           Beginner's Trading Certification
+          </a>
+         </div>
+        </div>
+        <div class="ham_menu_training_items ham_inner_menu_items">
+         <div class="ham_inner_title">
+          Data Science
+          <span class="glyphicon glyphicon-menu-down pull-right inner_down">
+          </span>
+          <span class="glyphicon glyphicon-menu-up pull-right inner_up">
+          </span>
+         </div>
+         <div class="ham_inner_submenu_items">
+          <a class="trainings_link" href="https://trainings.internshala.com/machine-learning-training?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+           Machine Learning
+          </a>
+         </div>
+        </div>
+        <div class="ham_menu_training_items ham_inner_menu_items">
+         <div class="ham_inner_title">
+          Core Engineering
+          <span class="glyphicon glyphicon-menu-down pull-right inner_down">
+          </span>
+          <span class="glyphicon glyphicon-menu-up pull-right inner_up">
+          </span>
+         </div>
+         <div class="ham_inner_submenu_items">
+          <a class="trainings_link" href="https://trainings.internshala.com/autocad-training?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+           AutoCAD
+          </a>
+          <a class="trainings_link" href="https://trainings.internshala.com/solidworks-training?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+           SOLIDWORKS
+          </a>
+          <a class="trainings_link" href="https://trainings.internshala.com/staad-pro-training?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+           STAAD Pro
+          </a>
+          <a class="trainings_link" href="https://trainings.internshala.com/iot-training?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+           Internet of Things
+          </a>
+         </div>
+        </div>
+        <div class="ham_menu_training_items ham_inner_menu_items">
+         <div class="ham_inner_title">
+          Creative Arts
+          <span class="glyphicon glyphicon-menu-down pull-right inner_down">
+          </span>
+          <span class="glyphicon glyphicon-menu-up pull-right inner_up">
+          </span>
+         </div>
+         <div class="ham_inner_submenu_items">
+          <a class="trainings_link" href="https://trainings.internshala.com/photography-training?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+           Photography
+          </a>
+         </div>
+        </div>
+        <div class="ham_menu_training_items ham_inner_menu_items">
+         <div class="ham_inner_title">
+          Design
+          <span class="glyphicon glyphicon-menu-down pull-right inner_down">
+          </span>
+          <span class="glyphicon glyphicon-menu-up pull-right inner_up">
+          </span>
+         </div>
+         <div class="ham_inner_submenu_items">
+          <a class="trainings_link" href="https://trainings.internshala.com/graphic-design-training?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+           Graphic Design
+          </a>
+          <a class="trainings_link" href="https://trainings.internshala.com/ui-ux-design-training?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+           UI/UX Design
+          </a>
+         </div>
+        </div>
+        <div class="ham_menu_training_items ham_inner_menu_items">
+         <div class="ham_inner_title">
+          Specializations
+          <span class="glyphicon glyphicon-menu-down pull-right inner_down">
+          </span>
+          <span class="glyphicon glyphicon-menu-up pull-right inner_up">
+          </span>
+         </div>
+         <div class="ham_inner_submenu_items">
+          <a class="trainings_link" href="https://trainings.internshala.com/machine-learning-specialization?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+           Machine Learning Specialization
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="ham_menu_items">
+       <div class="ham_main_heading">
+        <a href="/contact">
+         Contact Us
+        </a>
+       </div>
+      </div>
+      <hr class="ham_line_break">
+       <div class="ham_menu_items">
+        <div class="ham_main_heading">
+         <a href="/registration/student">
+          Register - As a Student
+         </a>
+        </div>
+       </div>
+       <div class="ham_menu_items">
+        <div class="ham_main_heading">
+         <a href="/registration/employer">
+          Register - As an Employer
+         </a>
+        </div>
+       </div>
+       <div class="ham_menu_items without_link">
+        <div class="ham_main_heading home_page_login_button" data-target="#login-modal" data-toggle="modal" id="ham_login_button">
+         Login
+        </div>
+       </div>
+      </hr>
+     </div>
+     <nav class="navbar navbar-default" role="navigation">
+      <div class="container-fluid">
+       <div class="navbar-header" id="main-navbar-header">
+        <img alt="" class="" id="hamburger_menu_key" src="https://internshala.com/static/images/icons/hamburger-menu-key.svg"/>
+        <span class="offer_hamburger_dot" id="offer_hamburger_dot">
+        </span>
+        <div class="max-width-padding mobile-navbar">
+         <a class="navbar-brand" href="/">
+          <img alt="" src="/static/images/common/internshala_logo.svg"/>
+         </a>
+        </div>
+       </div>
+       <div class="collapse navbar-collapse" id="dropdown">
+        <ul class="nav navbar-nav navbar-right nav_menu_container">
+         <li class="dropdown dropdown-hover">
+          <a href="/internships" id="internships_new_superscript">
+           Internships
+           <b class="caret hidden-xs hidden-sm">
+           </b>
+          </a>
+          <div class="hidden-xs" id="internships-dropdown">
+           <div class="dropdown-menu-arrow-key guest_other">
+           </div>
+           <div class="dropdown-menu-arrow-key-1 guest_other">
+           </div>
+           <div class="dropdown-inner">
+            <div class="inner-dropdown">
+             <div class="menu-heading">
+              Location
+             </div>
+             <hr class="drop-down-rule"/>
+             <ul class="dropdown-menu-part">
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/work-from-home-jobs" style="">
+                Work from Home
+               </a>
+              </li>
+              <li class="divider">
+              </li>
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/internship-in-bangalore" style="">
+                Internship in Bangalore
+               </a>
+              </li>
+              <li class="divider">
+              </li>
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/internship-in-delhi" style="">
+                Internship in Delhi
+               </a>
+              </li>
+              <li class="divider">
+              </li>
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/internship-in-hyderabad" style="">
+                Internship in Hyderabad
+               </a>
+              </li>
+              <li class="divider">
+              </li>
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/internship-in-mumbai" style="">
+                Internship in Mumbai
+               </a>
+              </li>
+              <li class="divider">
+              </li>
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/internship-in-chennai" style="">
+                Internship in Chennai
+               </a>
+              </li>
+              <li class="divider">
+              </li>
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/internship-in-pune" style="">
+                Internship in Pune
+               </a>
+              </li>
+              <li class="divider">
+              </li>
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/internship-in-kolkata" style="">
+                Internship in Kolkata
+               </a>
+              </li>
+              <li class="divider">
+              </li>
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/internship-in-jaipur" style="">
+                Internship in Jaipur
+               </a>
+              </li>
+              <li class="divider">
+              </li>
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/international-internship" style="">
+                International Internship
+               </a>
+              </li>
+              <li class="divider">
+              </li>
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/" style="text-decoration:underline">
+                View more
+               </a>
+              </li>
+             </ul>
+            </div>
+            <div class="inner-dropdown">
+             <div class="menu-heading">
+              Profile
+             </div>
+             <hr class="drop-down-rule"/>
+             <ul class="dropdown-menu-part">
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/computer%20science-internship" style="">
+                Computer Science Internship
+               </a>
+              </li>
+              <li class="divider">
+              </li>
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/marketing-internship" style="">
+                Marketing Internship
+               </a>
+              </li>
+              <li class="divider">
+              </li>
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/finance-internship" style="">
+                Finance Internship
+               </a>
+              </li>
+              <li class="divider">
+              </li>
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/mechanical-internship" style="">
+                Mechanical Internship
+               </a>
+              </li>
+              <li class="divider">
+              </li>
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/hr-internship" style="">
+                HR Internship
+               </a>
+              </li>
+              <li class="divider">
+              </li>
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/digital marketing-internship" style="">
+                Digital Marketing Internship
+               </a>
+              </li>
+              <li class="divider">
+              </li>
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/electronics-internship" style="">
+                Electronics Internship
+               </a>
+              </li>
+              <li class="divider">
+              </li>
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/content%20writing-internship" style="">
+                Content Writing Internship
+               </a>
+              </li>
+              <li class="divider">
+              </li>
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/civil-internship" style="">
+                Civil Internship
+               </a>
+              </li>
+              <li class="divider">
+              </li>
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/campus ambassador-internship?utm_source=header" style="">
+                Campus Ambassador Program
+               </a>
+              </li>
+              <li class="divider">
+              </li>
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/" style="text-decoration:underline">
+                View more
+               </a>
+              </li>
+             </ul>
+            </div>
+            <div class="inner-dropdown">
+             <div class="menu-heading">
+              Category
+             </div>
+             <hr class="drop-down-rule"/>
+             <ul class="dropdown-menu-part">
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/engineering-internship" style="">
+                Engineering Internship
+               </a>
+              </li>
+              <li class="divider">
+              </li>
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/mba-internship" style="">
+                MBA Internship
+               </a>
+              </li>
+              <li class="divider">
+              </li>
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/part-time-jobs" style="">
+                Part-Time Jobs/Internships
+               </a>
+              </li>
+              <li class="divider">
+              </li>
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/graphic design-internship" style="">
+                Graphic Design Internship
+               </a>
+              </li>
+              <li class="divider">
+              </li>
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/humanities-internship" style="">
+                Humanities Internship
+               </a>
+              </li>
+              <li class="divider">
+              </li>
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/science-internship" style="">
+                Science Internship
+               </a>
+              </li>
+              <li class="divider">
+              </li>
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/law-internship" style="">
+                Law Internship
+               </a>
+              </li>
+              <li class="divider">
+              </li>
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/architecture-internship" style="">
+                Architecture Internship
+               </a>
+              </li>
+              <li class="divider">
+              </li>
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/ppo-true" style="">
+                Internships with Job Offer
+               </a>
+              </li>
+              <li class="divider">
+              </li>
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships-for-women?utm_source=ifw_is_dropdown" style="">
+                Internships for Women
+               </a>
+              </li>
+              <li class="divider">
+              </li>
+              <li class="internship_item">
+               <a class="internship_item_location" href="https://internshala.com/internships/" style="text-decoration:underline">
+                View more
+               </a>
+              </li>
+             </ul>
+            </div>
+           </div>
+          </div>
+         </li>
+         <li class="dropdown dropdown-hover" style="position:relative;">
+          <a class="trainings_link" href="https://trainings.internshala.com/?utm_source=internshala-menu-dropdown-FTUD1" target="_blank">
+           Online Trainings
+           <span class="offer">
+            CONTEST
+           </span>
+           <b class="caret hidden-xs hidden-sm">
+           </b>
+          </a>
+          <div class="guest dropdown-menu hidden-xs" id="trainings-dropdown">
+           <div class="dropdown-menu-arrow-key guest_other">
+           </div>
+           <div class="dropdown-menu-arrow-key-1 guest_other">
+           </div>
+           <div class="dropdown-inner">
+            <div class="inner-dropdown inner-dropdown-trainings a1">
+             <div>
+              <div class="menu-heading">
+               Programming
+              </div>
+              <hr class="drop-down-rule regular-training-drop-down-rule"/>
+              <ul class="dropdown-menu-part">
+               <li>
+                <a class="trainings_link" href="https://trainings.internshala.com/c-plus-plus-training?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+                 Programming with C and C++
+                </a>
+               </li>
+               <li class="divider">
+               </li>
+               <li>
+                <a class="trainings_link" href="https://trainings.internshala.com/java-training?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+                 Core Java
+                </a>
+               </li>
+               <li class="divider">
+               </li>
+               <li>
+                <a class="trainings_link" href="https://trainings.internshala.com/angular-training?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+                 Angular
+                </a>
+               </li>
+              </ul>
+             </div>
+            </div>
+            <div class="inner-dropdown inner-dropdown-trainings a2">
+             <div>
+              <div class="menu-heading">
+               Business
+              </div>
+              <hr class="drop-down-rule regular-training-drop-down-rule"/>
+              <ul class="dropdown-menu-part">
+               <li>
+                <a class="trainings_link" href="https://trainings.internshala.com/excel-training?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+                 Advanced Excel
+                </a>
+               </li>
+               <li class="divider">
+               </li>
+               <li>
+                <a class="trainings_link" href="https://trainings.internshala.com/financial-modeling-valuation-training?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+                 Financial Modeling and Valuation
+                </a>
+               </li>
+               <li class="divider">
+               </li>
+               <li>
+                <a class="trainings_link" href="https://trainings.internshala.com/business-communication-skills-training?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+                 Business Communication Skills
+                </a>
+               </li>
+               <li class="divider">
+               </li>
+               <li>
+                <a class="trainings_link" href="https://trainings.internshala.com/trading-training?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+                 Beginner's Trading Certification
+                </a>
+               </li>
+              </ul>
+             </div>
+            </div>
+            <div class="inner-dropdown inner-dropdown-trainings a3">
+             <div>
+              <div class="menu-heading">
+               Data Science
+              </div>
+              <hr class="drop-down-rule regular-training-drop-down-rule"/>
+              <ul class="dropdown-menu-part">
+               <li>
+                <a class="trainings_link" href="https://trainings.internshala.com/machine-learning-training?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+                 Machine Learning
+                </a>
+               </li>
+              </ul>
+             </div>
+            </div>
+            <div class="inner-dropdown inner-dropdown-trainings a4">
+             <div>
+              <div class="menu-heading">
+               Core Engineering
+              </div>
+              <hr class="drop-down-rule regular-training-drop-down-rule"/>
+              <ul class="dropdown-menu-part">
+               <li>
+                <a class="trainings_link" href="https://trainings.internshala.com/autocad-training?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+                 AutoCAD
+                </a>
+               </li>
+               <li class="divider">
+               </li>
+               <li>
+                <a class="trainings_link" href="https://trainings.internshala.com/solidworks-training?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+                 SOLIDWORKS
+                </a>
+               </li>
+               <li class="divider">
+               </li>
+               <li>
+                <a class="trainings_link" href="https://trainings.internshala.com/staad-pro-training?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+                 STAAD Pro
+                </a>
+               </li>
+               <li class="divider">
+               </li>
+               <li>
+                <a class="trainings_link" href="https://trainings.internshala.com/iot-training?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+                 Internet of Things
+                </a>
+               </li>
+              </ul>
+             </div>
+            </div>
+            <div class="inner-dropdown inner-dropdown-trainings a5">
+             <div>
+              <div class="menu-heading">
+               Creative Arts
+              </div>
+              <hr class="drop-down-rule regular-training-drop-down-rule"/>
+              <ul class="dropdown-menu-part">
+               <li>
+                <a class="trainings_link" href="https://trainings.internshala.com/photography-training?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+                 Photography
+                </a>
+               </li>
+              </ul>
+             </div>
+            </div>
+            <div class="inner-dropdown inner-dropdown-trainings a6">
+             <div>
+              <div class="menu-heading">
+               Design
+              </div>
+              <hr class="drop-down-rule regular-training-drop-down-rule"/>
+              <ul class="dropdown-menu-part">
+               <li>
+                <a class="trainings_link" href="https://trainings.internshala.com/graphic-design-training?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+                 Graphic Design
+                </a>
+               </li>
+               <li class="divider">
+               </li>
+               <li>
+                <a class="trainings_link" href="https://trainings.internshala.com/ui-ux-design-training?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+                 UI/UX Design
+                </a>
+               </li>
+              </ul>
+             </div>
+            </div>
+            <div class="inner-dropdown inner-dropdown-trainings a7">
+             <div>
+              <div class="menu-heading">
+               Specializations
+              </div>
+              <hr class="drop-down-rule regular-training-drop-down-rule"/>
+              <ul class="dropdown-menu-part">
+               <li>
+                <a class="trainings_link" href="https://trainings.internshala.com/machine-learning-specialization?utm_source=internshala-menu-dropdown-FTUD" style="" target="_blank">
+                 Machine Learning Specialization
+                </a>
+               </li>
+              </ul>
+             </div>
+            </div>
+            <div class="inner-dropdown inner-dropdown-trainings contest">
+             <div>
+              <div class="menu-heading">
+               Contests
+               <span class="offer">
+                REGISTER
+               </span>
+              </div>
+              <hr class="drop-down-rule regular-training-drop-down-rule"/>
+              <ul class="dropdown-menu-part">
+               <li>
+                <a class="trainings_link" href="https://trainings.internshala.com/contest/webdev-battle?utm_source=internshala-menu-dropdown-8contest_May24" style="" target="_blank">
+                 Web Development
+                </a>
+               </li>
+               <li class="divider">
+               </li>
+               <li>
+                <a class="trainings_link" href="https://trainings.internshala.com/contest/python-challenge?utm_source=internshala-menu-dropdown-8contest_May24" style="" target="_blank">
+                 Programming with Python
+                </a>
+               </li>
+               <li class="divider">
+               </li>
+               <li>
+                <a class="trainings_link" href="https://trainings.internshala.com/contest/hackathon?utm_source=internshala-menu-dropdown-8contest_May24" style="" target="_blank">
+                 Ethical Hacking
+                </a>
+               </li>
+               <li class="divider">
+               </li>
+               <li>
+                <a class="trainings_link" href="https://trainings.internshala.com/contest/appathon?utm_source=internshala-menu-dropdown-8contest_May24" style="" target="_blank">
+                 Android App Development
+                </a>
+               </li>
+               <li class="divider">
+               </li>
+               <li>
+                <a class="trainings_link" href="https://trainings.internshala.com/contest/creative-writing-challenge?utm_source=internshala-menu-dropdown-8contest_May24" style="" target="_blank">
+                 Creative Writing
+                </a>
+               </li>
+               <li class="divider">
+               </li>
+               <li>
+                <a class="trainings_link" href="https://trainings.internshala.com/contest/marketing-ninja?utm_source=internshala-menu-dropdown-8contest_May24" style="" target="_blank">
+                 Digital Marketing
+                </a>
+               </li>
+               <li class="divider">
+               </li>
+               <li>
+                <a class="trainings_link" href="https://trainings.internshala.com/contest/data-science-challenge?utm_source=internshala-menu-dropdown-8contest_May24" style="" target="_blank">
+                 Data Science
+                </a>
+               </li>
+               <li class="divider">
+               </li>
+               <li>
+                <a class="trainings_link" href="https://trainings.internshala.com/contest/bonjour-french?utm_source=internshala-menu-dropdown-8contest_May24" style="" target="_blank">
+                 French Language
+                </a>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </div>
+          </div>
+         </li>
+         <li class="dropdown dropdown-hover">
+          <a>
+           Login / Register
+           <span class="caret">
+           </span>
+          </a>
+          <ul class="dropdown-menu" id="guest_settings" role="menu">
+           <li style="height: 0;">
+            <div class="dropdown-menu-arrow-key guest_other">
+            </div>
+            <div class="dropdown-menu-arrow-key-1 guest_other">
+            </div>
+           </li>
+           <li>
+            <a href="/registration/student" id="header_registration_link">
+             Register as a Student
+            </a>
+           </li>
+           <li class="divider">
+           </li>
+           <li>
+            <a href="/registration/employer?utm_campaign=employer_searchpage">
+             Register
+                                        as an Employer
+            </a>
+           </li>
+           <li class="divider">
+           </li>
+           <li>
+            <button data-target="#login-modal" data-toggle="modal" id="header_login_modal_button">
+             Login
+            </button>
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <!-- /.container-fluid -->
+     </nav>
+     <div style="position: absolute; left:0px; top:0px; height: 0px; width: 0px;">
+      <img alt="" height="0px" src="https://internshala.com/static/images/chat/message_with_hover_blue.svg" width="0px"/>
+     </div>
+     <script nonce="4CAcKcf4bJ8lzntCI4UXqQ==">
+      var studentChatEducationPopoverType = 0;
+    var conversationCount = 0;
+    var toShowEducation = 0;
+     </script>
+     <style>
+      #header .navbar .admin#trainings-dropdown {
+        margin-right: -60px !important;
+     }
+    #header .navbar .student#trainings-dropdown {
+        margin-right: -80px !important;
+     }
+
+    #header .navbar .dropdown-menu#internships-dropdown .dropdown-inner .inner-dropdown {
+        padding: 0px 7px !important;
+    }
+    #header .navbar .dropdown-menu#trainings-dropdown .dropdown-menu-arrow-key.guest_home  {
+        left: 676px !important;
+    }
+    #header .navbar .dropdown-menu#trainings-dropdown .dropdown-menu-arrow-key.guest_other  {
+        left: 860px !important;
+    }
+    #header .navbar .dropdown-menu#trainings-dropdown .dropdown-menu-arrow-key.student  {
+        left: 838px !important;
+    }
+    #header .navbar .dropdown-menu#trainings-dropdown .dropdown-menu-arrow-key-1.guest_home {
+        left: 678px !important;
+    }
+    #header .navbar .dropdown-menu#trainings-dropdown .dropdown-menu-arrow-key-1.guest_other {
+        left: 862px !important;
+    }
+    #header .navbar .dropdown-menu#trainings-dropdown .dropdown-menu-arrow-key-1.student {
+        left: 840px !important;
+    }
+        #header .navbar .dropdown-menu#trainings-dropdown .dropdown-inner {
+                           grid-template-areas:
+                               "a1 a2 a3 c1"
+                               "a4 a5 a6 c1"
+                               "a4 a7 a8 c1";
+                       }
+     </style>
+    </div>
+   </div>
+   <div class="modal in" id="auto_approve_invite_success_modal" style="display: none">
+    <div class="modal-dialog">
+     <div class="modal-content">
+      <div class="modal-body">
+       <div class="table-cell">
+        <img src="https://internshala.com/static/images/common/success.png"/>
+       </div>
+       <div class="table-cell">
+        <p class="text-message">
+         This is amazing.
+        </p>
+       </div>
+       <hr/>
+       <div class="buttons_container">
+        <button class="btn btn-default" data-dismiss="modal">
+         Cancel
+        </button>
+        <a class="btn btn-primary" data-dismiss="modal" href="">
+         Invite applicants
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="subscription_alert">
+    <div class="content">
+     <div class="heading">
+      Avail first time user offer
+     </div>
+     <div class="first-row">
+      <div class="left-table-cell">
+       <img src="https://internshala.com/static/images/internship/subscription-popup/subscription_laptop.svg"/>
+      </div>
+      <div class="right-table-cell">
+       <p>
+        <i>
+         Get
+         <span class="category">
+          PHP Development
+         </span>
+         internships in
+         <span class="city">
+          Delhi
+         </span>
+         in your inbox
+        </i>
+       </p>
+      </div>
+      <div id="and_container">
+       <i>
+        &amp;
+       </i>
+      </div>
+     </div>
+     <div class="second-row">
+      <div class="left-table-cell">
+       <i>
+        <span id="resume_guide_first">
+         get Internshala
+        </span>
+        <br/>
+        <span id="resume_guide_second">
+         Resume Guide
+        </span>
+        <span id="resume_guide_fourth">
+         for FREE!
+        </span>
+       </i>
+      </div>
+      <div class="right-table-cell">
+       <img src="https://internshala.com/static/images/internship/subscription-popup/subscription_book.svg"/>
+      </div>
+     </div>
+     <div class="validity">
+      <b>
+       <div class="first">
+        Valid only for today
+       </div>
+       <span class="divider">
+        |
+       </span>
+       Time left:
+       <span id="subs_timer">
+       </span>
+      </b>
+      <p id="demo">
+      </p>
+     </div>
+     <form class="form-inline" id="subscribe-form-popup" method="POST" role="form">
+      <div class="form-group" id="email_subscription_popup_container">
+       <input name="csrf_test_name" type="hidden" value="722d5d0223b988824ebfcc9add0c51df">
+        <input autofocus="true" class="form-control email-field-popup" id="email_popup" name="email" placeholder="Enter email" type="email"/>
+        <input name="src_url" type="hidden" value="/internship/detail/php-development-internship-in-delhi-at-nerd-geek-lab1590234375"/>
+        <input id="subscription_location" name="subscription_location" type="hidden" value="subscription_popup_new"/>
+        <button class="btn btn-primary" id="but_subscription_popup_form" type="submit">
+         Subscribe
+        </button>
+       </input>
+      </div>
+     </form>
+     <div class="subscription_alert_footer">
+      <a href="#" id="already_subscribed">
+       I'm already subscribed
+      </a>
+      <a href="#" id="no_thanks">
+       No, thanks
+      </a>
+     </div>
+    </div>
+   </div>
+   <div class="backdrop">
+   </div>
+   <script nonce="4CAcKcf4bJ8lzntCI4UXqQ==">
+    if (document.getElementById("subs_timer") != null) {
+            var distance = new Date('2020/05/25 00:00:00').getTime() - new Date('2020/05/24 14:47:06').getTime();
+
+            var x = setInterval(function () {
+                if (distance < 0) {
+                    clearInterval(x);
+                    document.getElementById("subs_timer").innerHTML = "";
+                }
+
+                var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+                var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+                if (hours == 0 && minutes == 0 && seconds == 0) {
+                    clearInterval(x);
+                    document.getElementById("subs_timer").innerHTML = "";
+                }
+
+                if (hours < 10) {
+                    hours = "0" + hours
+                }
+                if (minutes < 10) {
+                    minutes = "0" + minutes
+                }
+                if (seconds < 10) {
+                    seconds = "0" + seconds
+                }
+
+                distance = distance - 1000;
+                document.getElementById("subs_timer").innerHTML = hours + ":" + minutes + ":" + seconds;
+
+            }, 1000);
+        }
+   </script>
+   <div id="content">
+    <div class="container-fluid">
+     <a href="/internships">
+      <div class="backToInternship visible-xs">
+       <img src="https://internshala.com/static/images/internship/icons/arrow.svg"/>
+       <div>
+        Back to internship search
+       </div>
+      </div>
+     </a>
+     <div class="max-width-container">
+      <div id="internship_seo_heading_container">
+       <h3>
+        PHP Development Internship in Delhi at Nerd Geek Lab
+       </h3>
+      </div>
+      <div class="table-row" id="reference">
+       <div class="table-cell" id="list_container">
+        <div class="internship_list_container" id="internship_list_container">
+         <div class="container-fluid individual_internship visibilityTrackerItem" id="individual_internship_917492" internshipid="917492">
+          <div class="internship_meta">
+           <div class="individual_internship_header">
+            <div class="company">
+             <h4 title="PHP Development">
+              <span class="profile_on_detail_page">
+               PHP Development
+              </span>
+             </h4>
+             <h4>
+              <a class="link_display_like_text" href="/internships/internship-at-Nerd%20Geek%20Lab" title="Nerd Geek Lab">
+               Nerd Geek Lab
+              </a>
+             </h4>
+            </div>
+            <div class="internship_logo">
+             <img alt="PHP Development Internship at Nerd Geek Lab in Delhi" src="/cached_uploads/logo%2F5e2fde90ac64b1580195472.png" title="PHP Development Internship at Nerd Geek Lab in Delhi"/>
+            </div>
+           </div>
+           <div class="individual_internship_details individual_internship_internship">
+            <p id="location_names">
+             <span class="hidden-xs">
+              Location(s):
+             </span>
+             <span>
+              <a class="location_link" href="/internships/internship-in-delhi">
+               Delhi
+              </a>
+             </span>
+            </p>
+            <div class="table-responsive">
+             <table class="table">
+              <thead>
+               <tr>
+                <th>
+                 Start Date
+                </th>
+                <th>
+                 Duration
+                </th>
+                <th>
+                 Stipend
+                </th>
+                <th>
+                 Posted On
+                </th>
+                <th>
+                 Apply By
+                </th>
+               </tr>
+              </thead>
+              <tbody>
+               <tr>
+                <td>
+                 <div id="start-date-first">
+                  Immediately
+                 </div>
+                </td>
+                <td>
+                 3 Months
+                </td>
+                <td class="stipend_container_table_cell">
+                 <i class="fa fa-inr">
+                 </i>
+                 7000-14000 /month
+                </td>
+                <td>
+                 23 May'20
+                </td>
+                <td>
+                 20 Jun'20
+                </td>
+               </tr>
+              </tbody>
+             </table>
+            </div>
+           </div>
+           <div class="covid_wfh_alert_info">
+            <i aria-hidden="true" class="fa fa-home" style="font-size: 15px; margin-right: 1px;">
+            </i>
+            The hiring for this internship will be online and the company will provide work from home/ deferred joining till current COVID-19 situation improves
+           </div>
+          </div>
+          <div class="button_container">
+           <div class="tags_container">
+            <div class="images_container images_container_desktop">
+             Internship
+            </div>
+            <div class="images_container images_container_mobile">
+             <div class="mobile_tags">
+              <i class="glyphicon glyphicon-send">
+              </i>
+              Internship
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="internship_details">
+          <h5>
+           About Nerd Geek Lab (
+           <a href="http://nerdgeeklab.com" rel="nofollow noopener noreferrer" style="cursor: pointer; font-size: 14px !important;" target="_blank">
+            http://nerdgeeklab.com
+           </a>
+           )
+          </h5>
+          <div class="freetext-container">
+           Nerd Geek Lab is a limber platform for job and intern strivers. It gives a platform to carry out high-quality, large-scale, multi-city projects in eminently efficient and cost competitive way for organizations as well. Our objective is to equip students with skills &amp; practical exposure through internships and online training by giving them adventitious projects to give their career a kick start it needs. We are focusing on creating a new style of educational training which will give the students a whole new dimension to advent towards achieving their career dreams. We are proud to say that Nerd Geek Lab is successfully helping the strivers so that they can spawn the ability to exceed in any kind of vindicating situation. Logically we are building the future entrepreneur for developing India.
+          </div>
+          <h5>
+           About the internship
+          </h5>
+          <div class="freetext-container">
+           Selected intern's day-to-day responsibilities include:
+           <br>
+            <br/>
+            1. Working on PHP development
+            <br/>
+            2. Working on backend development
+            <br/>
+            3. Working on PHP with Laravel
+           </br>
+          </div>
+          <div id="numberOfPositionsContainer">
+           <h5>
+            # of Internships available:
+            <span class="number_of_internships_available" id="number_of_internships_available">
+             5
+            </span>
+           </h5>
+          </div>
+          <div id="skillsContainer">
+           <h5>
+            Skill(s) required
+           </h5>
+           <div>
+            <span id="skillNames">
+             PHP (
+             <a class="skill_training" href="https://trainings.internshala.com/web-development?utm_source=internshala_details_page_skills_section" target="_blank">
+              Learn PHP
+             </a>
+             ) and LARAVEL
+            </span>
+           </div>
+          </div>
+          <span id="hiddenExitIntentWhoCanApply">
+          </span>
+          <h5 id="whoCanApplyHeading">
+           Who can apply
+          </h5>
+          <div class="freetext-container">
+           <div style="margin-right:0px;">
+            Only those candidates can apply who:
+            <ol style="padding-left: 15px;margin-top: 5px">
+             <li>
+              <div style="margin-bottom: 5px;">
+               <div style=" width: 92%;  vertical-align: text-top;">
+                <span>
+                 are available for full time (in-office) internship
+                </span>
+               </div>
+              </div>
+             </li>
+             <li>
+              <div style="margin-bottom: 5px;">
+               <div style=" width: 92%;  vertical-align: text-top;">
+                <span>
+                 can start the internship between 23rd May'20 and 27th Jun'20
+                </span>
+               </div>
+              </div>
+             </li>
+             <li>
+              <div style="margin-bottom: 5px;">
+               <div style=" width: 92%;  vertical-align: text-top;">
+                <span>
+                 are available for duration of 3 months
+                </span>
+               </div>
+              </div>
+             </li>
+             <li>
+              <div style="margin-bottom: 5px;">
+               <div style=" width: 92%;  vertical-align: text-top;">
+                <span>
+                 have relevant skills and interests
+                </span>
+               </div>
+              </div>
+             </li>
+            </ol>
+           </div>
+          </div>
+          <span id="hiddenExitIntentApplyNow">
+          </span>
+          <h5>
+           Perks
+          </h5>
+          <div class="freetext-container">
+           Certificate.
+          </div>
+          <div class="button_container table-row" id="fb_like_container">
+           <div class="inline_button_container">
+            <div class="buttons_container">
+             <a href="/student/interstitial/application/php-development-internship-in-delhi-at-nerd-geek-lab1590234375">
+              <button class="btn btn-primary internship_detail_btn" id="search_button">
+               APPLY NOW
+              </button>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div style="margin-bottom: 11px; text-align: center;">
+          </div>
+         </div>
+         <div class="alert alert-warning" id="dont_charge_fee_message" style="margin-top: 10px;">
+          <p>
+           <b>
+            Save yourself from fraud!
+           </b>
+          </p>
+          <p>
+           If an employer asks you to pay any security deposit, registration fee, laptop fee, etc.,
+           <strong>
+            do not
+           </strong>
+           pay and
+           <strong>
+            <u>
+             <a href="/student/help_center_faq/7#faq-45" style="color: inherit;" target="_blank">
+              notify us
+             </a>
+            </u>
+           </strong>
+           immediately. Remember, Internshala
+           <strong>
+            doesn't charge
+           </strong>
+           a fee from the students to apply to  an internship &amp;
+           <strong>
+            we don't
+           </strong>
+           allow other companies to do so either.
+          </p>
+         </div>
+         <script nonce="4CAcKcf4bJ8lzntCI4UXqQ==">
+          var is_internship_auto_approved = 0;
+    var is_internship_sent_for_followup_for_unpaid = 0;
+    var is_internship_sent_for_followup_for_less_stipend = 0;
+    var to_show_invite_applicant = true;
+    var internship_id = 917492;
+         </script>
+         <!---------------------->
+         <!--StructuredData-->
+         <!---------------------->
+         <script type="application/ld+json">
+          {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+                    "salaryCurrency": "INR ",
+            "baseSalary" : {
+            "@type": "MonetaryAmount"
+                            ,"currency" : "INR "
+                                            ,"value": {
+                "@type": "QuantitativeValue",
+                "minValue": 7000,
+                "maxValue": 14000,
+                "unitText": "MONTH"
+                }
+                            },
+            
+                    "datePosted": "2020-05-23 17:16:14",
+                    "hiringOrganization": {
+        "@type" : "Organization",
+        "name" : "Nerd Geek Lab"
+                    ,"sameAs" : "http://nerdgeeklab.com"
+                                ,"logo" : "https://s3-ap-southeast-1.amazonaws.com/internshala-uploads/google_logo/5e2fde90ac64b1580195472.png"
+                    },
+
+                    "jobLocation": [
+                            {
+                "@type": "Place",
+                "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Delhi",
+                "addressRegion": "",
+                "addressCountry": "India"
+                }
+                }
+
+                            ],
+
+                        
+                    "responsibilities": "Selected intern's day-to-day responsibilities include:<br />
+<br />
+1. Working on PHP development<br />
+2. Working on backend development<br />
+3. Working on PHP with Laravel",
+            
+                    "description": "<h5><strong>About Company:</strong></h5>Nerd Geek Lab is a limber platform for job and intern strivers. It gives a platform to carry out high-quality, large-scale, multi-city projects in eminently efficient and cost competitive way for organizations as well. Our objective is to equip students with skills & practical exposure through internships and online training by giving them adventitious projects to give their career a kick start it needs. We are focusing on creating a new style of educational training which will give the students a whole new dimension to advent towards achieving their career dreams. We are proud to say that Nerd Geek Lab is successfully helping the strivers so that they can spawn the ability to exceed in any kind of vindicating situation. Logically we are building the future entrepreneur for developing India.<br><br><h5><strong>About the Internship:</strong></h5>Selected intern's day-to-day responsibilities include:<br />
+<br />
+1. Working on PHP development<br />
+2. Working on backend development<br />
+3. Working on PHP with Laravel<br><br><div style='margin-right:0px;'>Only those candidates can apply who:<ol  style='padding-left: 15px;margin-top: 5px'><li><div style='margin-bottom: 5px;'><div style=' width: 92%;  vertical-align: text-top;'><span>are available for full time (in-office) internship</span></div></div></li><li><div style='margin-bottom: 5px;'><div style=' width: 92%;  vertical-align: text-top;'><span>can start the internship between 23rd May'20 and 27th Jun'20</span></div></div></li><li><div style='margin-bottom: 5px;'><div style=' width: 92%;  vertical-align: text-top;'><span>are available for duration of 3 months</span></div></div></li><li><div style='margin-bottom: 5px;'><div style=' width: 92%;  vertical-align: text-top;'><span>have relevant skills and interests</span></div></div></li><li><div style='margin-bottom: 5px;'><div style='display: inline-block; width: 92%;  vertical-align: top;'><span>are Computer Science Engineering students</span></div></div></li></ol></div><br><br><h5><strong>Stipend:</strong></h5>INR <i class='fa fa-inr'></i>7000-14000 /month<br><br><h5><strong>Deadline:</strong></h5>2020-06-20 23:59:59<br><br><h5><strong>Other perks:</strong></h5>Certificate.<br><br><h5><strong>Skills required:</strong></h5>PHP and LARAVEL",
+                                "title": "PHP Development internship",
+                "employmentType": ["INTERN"],
+        "validThrough": "2020-06-20 23:59:59"
+        }
+         </script>
+        </div>
+       </div>
+       <div class="table-cell hidden-xs hidden-sm" id="marketing_right_container_parent">
+        <div style="width:215px;">
+        </div>
+        <div class="ads fixed_on_scroll" id="fixed_ads">
+         <div class="container-fluid" id="subscription_content">
+          <div id="form-container">
+           <label>
+            Don’t miss any opportunity!
+           </label>
+           <form id="subscribe-form" method="POST" name="subscribe-form" role="form">
+            <div class="form-group">
+             <input name="csrf_test_name" type="hidden" value="722d5d0223b988824ebfcc9add0c51df">
+              <input class="form-control email-field-subscribe-marketing-right" id="email" name="email" placeholder="Your email" type="email"/>
+              <input id="src_url" name="src_url" type="hidden" value="/internship/detail/php-development-internship-in-delhi-at-nerd-geek-lab1590234375"/>
+              <input name="subscription_location" type="hidden" value="subscription_inbox"/>
+             </input>
+            </div>
+            <button class="btn btn-primary pull-right" id="but_subscription_form" type="submit">
+             Subscribe
+            </button>
+           </form>
+          </div>
+         </div>
+         <div id="marketing_right_container">
+          <div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <script nonce="4CAcKcf4bJ8lzntCI4UXqQ==">
+    var page = 'details';
+        var campaign_name = "";
+        var current_url = "/internship/detail/php-development-internship-in-delhi-at-nerd-geek-lab1590234375";
+        var page = 'details';
+        var input_domains = [];
+        var valid_domains = [];
+        var is_internship_active = 1;
+        var internship_posting_success_message = "Your internship has been submitted for review & you will hear from us within 48 working hours. <br>The page below shows how applicants will see your internship. Please review it carefully and to make any changes, click ‘EDIT INTERNSHIP’ button at the bottom of the page.";
+        var internship_type = "";
+        var employment_type = 'internship';
+        if (campaign_name === 'chandigarh_internship_fair_aug19') {
+            internship_posting_success_message = "Thank you so much for submitting your internship details for Chandigarh Internship Fair’19. You will receive a confirmation with other relevant details shortly.";
+        }
+                input_domains.push("gmai.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gamil.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.con");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmil.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gnail.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.cim");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.co");
+            valid_domains.push("gmail.com");
+                input_domains.push("gamail.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmial.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmaill.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmal.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("g.mail.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmaiil.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.coom");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.xom");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmali.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmaip.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("g-mail.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.comm");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmaul.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmqil.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gma.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("g.mail");
+            valid_domains.push("gmail.com");
+                input_domains.push("googlemail.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gimal.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.vom");
+            valid_domains.push("gmail.com");
+                input_domains.push("gimail.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmaio.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmaik.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmaol.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmailm.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gemail.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.in");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.coml");
+            valid_domains.push("gmail.com");
+                input_domains.push("gail.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.cm");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmsil.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.clm");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmill.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gami.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.ocm");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmain.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmiail.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.comn");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmaail.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.ckm");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.comcom");
+            valid_domains.push("gmail.com");
+                input_domains.push("gamil.co");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.com.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmai8l.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gamil.comm");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.ckn");
+            valid_domains.push("gmail.com");
+                input_domains.push("g-mail.come");
+            valid_domains.push("gmail.com");
+                input_domains.push("gimeil.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("g.mali.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.comb");
+            valid_domains.push("gmail.com");
+                input_domains.push("ggmail.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.combus");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.comch");
+            valid_domains.push("gmail.com");
+                input_domains.push("gma2il.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gimel.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmai.lcom");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.come");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmalil.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.comk");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmeil.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.cin");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.comlll");
+            valid_domains.push("gmail.com");
+                input_domains.push("gml.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.comlo");
+            valid_domains.push("gmail.com");
+                input_domains.push("ghmail.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.commaniraj");
+            valid_domains.push("gmail.com");
+                input_domains.push("gimal.co");
+            valid_domains.push("gmail.com");
+                input_domains.push("gamile.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmaaail.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.comopp");
+            valid_domains.push("gmail.com");
+                input_domains.push("gemil.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.comp");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmajl.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.compin");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmaigmai.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.comrith");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmamil.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.comt");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.comw");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.cam");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.comy");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmial.come");
+            valid_domains.push("gmail.com");
+                input_domains.push("gani.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmile.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.cpm");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmit.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.gom");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmmail.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.lcom");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.clom");
+            valid_domains.push("gmail.com");
+                input_domains.push("g.mail.co");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.om");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.co.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.v.com");
+            valid_domains.push("gmail.com");
+                input_domains.push("gamil.come");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.coma");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.coman");
+            valid_domains.push("gmail.com");
+                input_domains.push("gmail.comar");
+            valid_domains.push("gmail.com");
+   </script>
+   <div id="footer">
+    <div class="max-width-container">
+     <div class="container-fluid">
+      <div class="row">
+       <div class="col-md-3 visible-md visible-lg footer-column">
+        <div class="footer-list">
+         <h4>
+          Internships by places
+         </h4>
+         <div class="footer-list-item">
+          <a href="/internships">
+           Internship in India
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="/internships/internship-in-delhi">
+           Internship in Delhi
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="/internships/internship-in-bangalore">
+           Internship in Bangalore
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="/internships/internship-in-hyderabad">
+           Internship in Hyderabad
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="/internships/internship-in-mumbai">
+           Internship in Mumbai
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="/internships/internship-in-chennai">
+           Internship in Chennai
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="/internships/internship-in-gurgaon">
+           Internship in Gurgaon
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="/internships/internship-in-kolkata">
+           Internship in Kolkata
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="/internships/work-from-home-jobs">
+           Virtual internship
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="col-md-3 visible-md visible-lg footer-column">
+        <div class="footer-list">
+         <h4>
+          Internship by Stream
+         </h4>
+         <div class="footer-list-item">
+          <a href="/internships/computer%20science-internship">
+           Computer Science Internship
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="/internships/electronics-internship">
+           Electronics Internship
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="/internships/mechanical-internship">
+           Mechanical Internship
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="/internships/civil-internship">
+           Civil Internship
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="/internships/marketing-internship">
+           Marketing Internship
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="/internships/chemical-internship">
+           Chemical Internship
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="/internships/finance-internship">
+           Finance Internship
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="/internships/summer%20research%20fellowship-internship">
+           Summer Research Fellowship
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="/internships/campus%20ambassador-internship?utm_medium=footer">
+           Campus Ambassador Program
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="col-md-3 visible-md visible-lg footer-column">
+        <div class="footer-list">
+         <h4>
+          <div id="trainings-footer">
+           <a href="https://trainings.internshala.com/?utm_source=is-footer-FTUD">
+            Online Summer Trainings
+            <span class="offer">
+             CONTEST
+            </span>
+           </a>
+          </div>
+         </h4>
+         <div class="footer-list-item">
+          <a href="https://trainings.internshala.com/contest/webdev-battle?utm_source=is-footer-8contest_May24">
+           Web Development
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="https://trainings.internshala.com/contest/appathon?utm_source=is-footer-8contest_May24">
+           Android App Development
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="https://trainings.internshala.com/contest/python-challenge?utm_source=is-footer-8contest_May24">
+           Programming with Python
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="https://trainings.internshala.com/contest/data-science-challenge?utm_source=is-footer-8contest_May24">
+           Data Science
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="https://trainings.internshala.com/contest/hackathon?utm_source=is-footer-8contest_May24">
+           Ethical Hacking
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="https://trainings.internshala.com/java-training?utm_source=is-footer-FTUD">
+           Core Java
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="https://trainings.internshala.com/contest/marketing-ninja?utm_source=is-footer-8contest_May24">
+           Digital Marketing
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="https://trainings.internshala.com/excel-training?utm_source=is-footer-FTUD">
+           Advanced Excel
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="https://trainings.internshala.com/c-plus-plus-training?utm_source=is-footer-FTUD">
+           Programming with C &amp; C++
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="col-md-3 footer-column" id="about-us-container">
+        <div class="footer-list">
+         <h4>
+          About Internshala
+         </h4>
+         <div class="footer-list-item">
+          <a href="/about_us">
+           About us
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="/careers">
+           We're hiring
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="/registration/employer?utm_source=ISfooter">
+           Hire interns for your company
+          </a>
+         </div>
+         <!--                        <div class='footer-list-item'>-->
+         <!--                            <a href ="http://blog.internshala.com/internshala-editorials/team-diary/" target="_blank">Team Diary</a>-->
+         <!--                        </div>-->
+         <div class="footer-list-item">
+          <a href="https://blog.internshala.com/?utm_source=IS_footer" target="_blank">
+           Blog
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="/products_services">
+           Our Services
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="/terms">
+           Terms &amp; Conditions
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="/privacy">
+           Privacy
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="/contact">
+           Contact us
+          </a>
+         </div>
+         <div class="footer-list-item">
+          <a href="https://trainings.internshala.com/young-achiever-scholarship?utm_source=corona_IS_footer&amp;utm_medium=corona_IS_footer" target="_blank">
+           Our Coronavirus initiative
+          </a>
+         </div>
+         <div class="footer-list-item hidden-xs hidden-sm" id="google_play_store_container">
+          <a href="https://play.google.com/store/apps/details?id=com.internshala.app&amp;referrer=utm_source%3Dplay_footer" target="_blank">
+           <img class="google_play_store_button" src="https://internshala.com/static/images/common/google_play_store_button.svg"/>
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <hr/>
+      <div class="row" id="footer-bottom">
+       <div class="col-xs-12" id="copyright">
+        © Copyright 2020 Internshala
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <script nonce="4CAcKcf4bJ8lzntCI4UXqQ==">
+    var big_brand = 'yes';
+   </script>
+  </div>
+  <div id="fb-root">
+  </div>
+  <script nonce="4CAcKcf4bJ8lzntCI4UXqQ==">
+   /* <![CDATA[ */
+    var google_conversion_id = 981478532;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+  </script>
+  <script src="https://www.googleadservices.com/pagead/conversion.js" type="text/javascript">
+  </script>
+  <noscript>
+   <div style="display:inline;">
+    <img alt="" height="1" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/981478532/?value=0&amp;guid=ON&amp;script=0" style="border-style:none;" width="1">
+    </img>
+   </div>
+  </noscript>
+ </body>
+ <script nonce="4CAcKcf4bJ8lzntCI4UXqQ==">
+  (function (d, s, id) {
+                    var js, fjs = d.getElementsByTagName(s)[0];
+                    if (d.getElementById(id))
+                        return;
+                    js = d.createElement(s);
+                    js.id = id;
+                    js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=272234782795210";
+                    fjs.parentNode.insertBefore(js, fjs);
+                }(document, 'script', 'facebook-jssdk'));
+ </script>
+ <script nonce="4CAcKcf4bJ8lzntCI4UXqQ==">
+  var new_design_system = false;
+        var isFresherJobLive = false;
+ </script>
+</html>

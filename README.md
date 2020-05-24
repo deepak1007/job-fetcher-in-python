@@ -5,7 +5,7 @@ Requirements libraries\
 
 basic work flow check list (development v1)\
 [] get the urls \
-   [] Glassdoor  \
+   [] Glassdoor \
    [X] Internshala \
    [] Indeed \
 [X] Read the HTML using inspect \
@@ -19,14 +19,14 @@ basic work flow check list (development v1)\
 [] specificly search for react js and angular js \
 [] count the number of occurances and compare \
 [] check salary \
-[] display \
+[] display
 
 
 objective \
 -> searches for available webdevelopment jobs/internships on popular sites such as Glassdoor, Internshala, Indeed, etc. \
 -> fetches the requirements.  \
 -> fetches occurances of react js and angular js in the requirement. \
--> fetches stipends. \
+-> fetches stipends.
 
 
 v1 features \
